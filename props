@@ -1,0 +1,10 @@
+patient
+-id
+-fullname
+-phone
+
+task
+-user_id
+-task
+-date
+-time
